@@ -1,0 +1,36 @@
+h1 {
+    font-family: "American Typewriter", monospace;
+    font-size: 36pt;
+    padding-left: 10pt;
+}
+
+h2 {
+    font-family: "American Typewriter", monospace;
+    font-size: 30pt;
+    font-style: italic;
+    padding-left: 10pt;
+}
+
+.subtitle {
+    font-family: cursive;
+    font-size: 20pt;
+    font-style: italic;
+    padding-left: 10pt;
+}
+
+blockquote {
+    font-family: "Comic Sans MS";
+    font-size: 18pt;
+    background-color: #eee;
+    padding: 10pt;
+    border-style: solid;
+    max-width: 590pt;
+    text-align: right;
+}
+
+p,
+li {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+    font-size: 16pt;
+}
