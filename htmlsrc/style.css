@@ -6,24 +6,9 @@ h1 {
 
 h2 {
     font-family: "American Typewriter", monospace;
-    font-size: 30pt;
+    font-size: 28pt;
     font-style: italic;
     padding-left: 10pt;
-}
-
-.subtitle {
-    font-family: cursive;
-    font-size: 20pt;
-    font-style: italic;
-    padding-left: 10pt;
-}
-
-blockquote {
-    font-family: "Comic Sans MS";
-    font-size: 18pt;
-    padding: 10pt;
-    max-width: 590pt;
-    text-align: left;
 }
 
 p,
@@ -35,4 +20,9 @@ li {
 
 html {
 	background-color: #eee;
+	padding-left: 40pt;
+	padding-right: 30pt;
 }	
+
+strong {
+}
