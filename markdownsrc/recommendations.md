@@ -1,6 +1,6 @@
 Gnu Recommends
 ==============
-A page on [my website](https://thegnugod.github.io)
+A page on [my website](index.html)
 
 *I recommend that you are recommended these recommendations*
 
@@ -33,7 +33,7 @@ I cannot stress enough that **you only get one shot to watch this video honestly
 
 ## Podcasts
 
-A note on podcasts. As [Merlin Mann](https://unwilling.horse) has said, "[...] with podcasts, you come for the topic, but you stay for the voice". So don't decide you're uninterested in any of these until you give them a listen.
+A note on podcasts. As [Merlin Mann](https://hotdogsladies.omg.lol) has said, "with podcasts, you come for the topic, but you stay for the voice". So don't decide you're uninterested in any of these until you give 'em a listen.
 
 - ***Cortex*** is a podcast where CGP Grey and Myke Hurley discuss their working lives. The two contentent creators across two different mediums talk about how they work and interact with technology and the world to help them be productive.
 

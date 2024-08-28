@@ -7,7 +7,7 @@ Gnu Thing.
 >
 > *-Me*
 
-Go look at some [things I recommend](https://thegnugod.github.io/htmlsrc/recommendations.html).
+Go look at some [things I recommend](recommendations.html).
 Check out this [github repo I have](https://github.com/thegnugod/gnudo).
 Read [my blog](blog.html). 
 
