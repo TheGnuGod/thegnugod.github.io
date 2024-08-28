@@ -1,12 +1,19 @@
-RECOUTPUT = htmlsrc/recommendations.html
+RECOUTPUT = recommendations.html
 INDEXOUTPUT = index.html
+BLOGOUTPUT =  blog.html
+COMPILER = mkdowncompiler.pl
 
 rec:
 	cat htmlTopsNBottoms/recTop.html > $(RECOUTPUT)
-	./mkdowncompiler.pl markdownsrc/recommendations.md >> $(RECOUTPUT)
+	./$(COMPILER) markdownsrc/recommendations.md >> $(RECOUTPUT)
 	cat htmlTopsNBottoms/bottom.html >> $(RECOUTPUT)
 
 index:
 	cat htmlTopsNBottoms/indexTop.html > $(INDEXOUTPUT)
-	./mkdowncompiler.pl markdownsrc/index.md >> $(INDEXOUTPUT)
+	./$(COMPILER) markdownsrc/index.md >> $(INDEXOUTPUT)
 	cat htmlTopsNBottoms/bottom.html >> $(INDEXOUTPUT)
+
+blog:
+	cat htmlTopsNBottoms/blogtop.html > $(BLOGOUTPUT)
+	./$(COMPILER) markdownsrc/blog.md >> $(BLOGOUTPUT)
+	cat htmlTopsNBottoms/bottom.html >> $(BLOGOUTPUT)

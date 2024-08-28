@@ -1,10 +1,10 @@
 Gnu Recommends
 ==============
-Part of [A Thing Gnu Makes](https://thegnugod.github.io)
+A page on [my website](https://thegnugod.github.io)
 
 *I recommend that you are recommended these recommendations*
 
-**Disclaimer:** This is not a list of all the videos I like, or Podcasts I've listened to, or video games I've played. These are my favourites among favourites, that I think should be watched by anyone who would come to this web page. Also it probably isn't finished.
+**Disclaimer:** This is not a list of all the videos I like, or Podcasts I've listened to, or video games I've played. These are my favourites among favourites, that I think should be "consumed"<sup><small> [1]</small></sup> by anyone who would come to this web page. Also it probably isn't finished.
 
 ## Video
 
@@ -27,15 +27,17 @@ I cannot stress enough that **you only get one shot to watch this video honestly
 
 	*YouTube link to* [*Can You Win this One-in-a-Million Game?*](https://www.youtube.com/watch?v=PmWQmZXYd74&t=34s) *by* [*CGP Grey*](https://www.youtube.com/@cgpgrey)
 
-- ***The Unbreakable Krypros Code*** is a video about a piece of crytographic art that hasn't been solved by the greatest cryptographers of our time and the one before. It has beautiful editing, clean explanations and strikes a great balance of not telling you everything ever about the topic but also not depriving you of information.
+- ***The Unbreakable Kryptos Code*** is a video about a piece of crytographic art that hasn't been solved by the greatest cryptographers of our time and the one before. It has beautiful editing, clean explanations and strikes a great balance of not telling you everything ever about the topic but also not depriving you of information.
 
 	*YouTube link to* [*The Unbreakable Kryptos Code*](https://youtu.be/jVpsLMCIB0Y?si=5bAi4uY7f_tIzwV9) *by* [*LEMMiNO*](https://www.youtube.com/@LEMMiNO)
 
 ## Podcasts
 
+A note on podcasts. As [Merlin Mann](https://unwilling.horse) has said, "[...] with podcasts, you come for the topic, but you stay for the voice". So don't decide you're uninterested in any of these until you give them a listen.
+
 - ***Cortex*** is a podcast where CGP Grey and Myke Hurley discuss their working lives. The two contentent creators across two different mediums talk about how they work and interact with technology and the world to help them be productive.
 
-	*Link to* [*Cortex's page*](https://www.relay.fm/cortex) *on the* [*Relay website*](https://www.relay.fm) and its [*RSS Feed*](https://www.relay.fm/cortex/feed)
+	*Link to* [*Cortex's page*](https://www.relay.fm/cortex) *on the* [*Relay*](https://www.relay.fm) *network and its* [*RSS Feed*](https://www.relay.fm/cortex/feed)
 
 - In ***Robot or Not?*** [Jason Snell](https://sixcolors.com/jason/) asks [John Siracusa](https://hypercritical.co/about/) to deicide on exactly what even slightly vague words mean. The podcast originally asked whether a given thing is a (you guessed it) robot, or not. Now they discuss everything from whether a mushroom tea is soup, if ice is food or what it means for someone to be a "Friend of the Show". As soon as a new episode comes out, I always rush to listen to it as soon as I can, postponing whatever (now pointless) thing I was doing before.
 
@@ -46,3 +48,18 @@ I cannot stress enough that **you only get one shot to watch this video honestly
 - ***Hollow Knight*** is the genre-reviving 2017 metroidvania video game developed and published by [Team Cherry](https://www.teamcherry.com.au). It has beautiful art, great design and engaging mechanics and constantly feels like you're facing the perfect level of challenge to feel definitively difficult but still doable and rewarding. 
 
 	*Link to the* [*Hollow Knight webpage*](https://www.hollowknight.com) *and* [*Steam store page*](https://store.steampowered.com/app/367520/Hollow_Knight/)
+
+- ***The Legend of Zelda: Tears of the Kingdom*** is a game where everyone unanimously assumed the title's fifth word refered to sadness water and not a paper rip. Slightly less unanimously, this game is a masterpiece. *ToTK* offers near-endless freedom as you explore a world that feels alive at every corner. As you go around there are mysteries to uncover and quests to complete. And at any point you can build nearly anything with the incredibly powerful abilties you gain from the get-go.
+
+    *Link to* [*ToTK's Page*](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html) *on the* [*Nintendo website*](https://nintendo.com)
+    
+- ***Splatoon 3*** is an ink-covered third-person shooter with cephalopds and toothbursh swords. In *Splatoon* you play as either a squid (called an "Inkling") or an octopus (called an "Octoling") with an ink tank on their back to battle with strange weapons and cover the ground. The main idea of the game is that while in "Kid Form", you are a humanoid who walks slowly but can fire their weapon and in "Swim Form" you're a squid/octopus who can swim *quickly* through any ink you (or your teammates) have previously put on the floor. This makes for dynamic gameplay in serveral modes that's unique in the gaming world.
+
+    *Link to* [*Splatoon's (Very Good) Website*](https://splatoon.nintendo.com) 
+    
+- ***Tetris*** is a game you've already played.
+ 
+---
+Footnotes:
+
+<sup><small>[1]</sup></small> I really dislike the words "consume" and "content" for "describing" media, but I don't think there are any real words better than them.
