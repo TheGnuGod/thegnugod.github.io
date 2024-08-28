@@ -9,3 +9,6 @@ Gnu Thing.
 
 Go look at some [things I recommend](https://thegnugod.github.io/htmlsrc/recommendations.html).
 Check out this [github repo I have](https://github.com/thegnugod/gnudo).
+Read [my blog](blog.html). 
+
+Or don't do any of those things, becuase you don't think they're worth your time.
