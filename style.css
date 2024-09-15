@@ -1,21 +1,30 @@
 h1 {
     font-family: "American Typewriter", monospace;
-    font-size: 36pt;
+    font-size: 48pt;
     padding-left: 10pt;
 }
 
 h2 {
     font-family: "American Typewriter", monospace;
-    font-size: 28pt;
+    font-size: 36pt;
     font-style: italic;
     padding-left: 10pt;
 }
 
-p,
-li {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
-        sans-serif;
-    font-size: 16pt;
+h3 {
+    font-family: "American Typewriter", monospace;
+    font-size: 20pt;
+    font-style: bold;
+    padding-left: 0pt;
+}
+
+p, li {
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+    font-size: 15pt;
+}
+
+small {
+	font-size: 12pt;
 }
 
 html {
@@ -24,5 +33,3 @@ html {
 	padding-right: 30pt;
 }	
 
-strong {
-}
