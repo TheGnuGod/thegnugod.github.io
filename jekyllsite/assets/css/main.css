@@ -1,0 +1,56 @@
+body {
+  background: #eee;
+  color: #000000;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 16pt;
+}
+
+h1 {
+  font-family: "American Typewriter", "monospace";
+  font-size: 48pt;
+  padding-left: 10pt;
+}
+
+h2 {
+  font-family: "American Typewriter", "monospace";
+  font-size: 36pt;
+  font-style: italic;
+  padding-left: 10pt;
+}
+
+h3 {
+  font-family: "American Typewriter", "monospace";
+  font-size: 20pt;
+  font-style: bold;
+  padding-left: 0pt;
+}
+
+html {
+  padding-left: 50pt;
+  padding-right: 20pt;
+}
+
+.staticstylelink {
+  color: black;
+}
+
+nav {
+  margin-top: 20pt;
+  margin-left: 5pt;
+}
+nav a {
+  color: #000;
+}
+
+.navitem {
+  padding: 5pt;
+  border: solid;
+  border-radius: 10pt;
+}
+
+.currentnavitem {
+  color: #eee;
+  background-color: #000;
+}
+
+/*# sourceMappingURL=main.css.map */
